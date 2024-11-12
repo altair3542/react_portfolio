@@ -21,11 +21,9 @@ span {
 }
 
 .shiny-effect {
-  position:absolute;
+  position: absolute;
   border-radius: 50%;
   pointer-events: none;
   z-index: 1;
-  background: radial-gradient(circle, rgba(178, 19, 202, 0,2), transparent 70%);
+  background: radial-gradient(circle, rgba(178, 19, 202, 0.2), transparent 70%);
 }
-
-
